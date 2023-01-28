@@ -22,7 +22,7 @@ file_ = [
     "params.yaml",
     ".gitignore ",
     os.path.join("src","__init__.py"),
-    "readme.md",
+    "README.md",
     
 ]
 
